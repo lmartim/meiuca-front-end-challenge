@@ -3,6 +3,9 @@
 ## Project setup
 ```
 yarn install
+cd shepherd-design-system
+git submodule init
+git submodule update
 ```
 
 ### Compiles and hot-reloads for development
