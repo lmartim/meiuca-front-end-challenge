@@ -1,0 +1,20 @@
+{
+  "name": "@bit/lmartim.shepherd.heading-small",
+  "version": "1.1.0",
+  "homepage": "https://bit.dev/lmartim/shepherd/heading-small",
+  "main": "index.vue",
+  "componentId": {
+    "scope": "lmartim.shepherd",
+    "name": "heading-small",
+    "version": "1.1.0"
+  },
+  "dependencies": {
+    "@bit/lmartim.calamity._variables": "1.0.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {}
+  }
+}

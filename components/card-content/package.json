@@ -1,0 +1,25 @@
+{
+  "name": "@bit/lmartim.shepherd.card-content",
+  "version": "1.1.0",
+  "homepage": "https://bit.dev/lmartim/shepherd/card-content",
+  "main": "CardContent/index.vue",
+  "componentId": {
+    "scope": "lmartim.shepherd",
+    "name": "card-content",
+    "version": "1.1.0"
+  },
+  "dependencies": {
+    "@bit/lmartim.calamity._variables": "1.0.0",
+    "@bit/lmartim.shepherd.button-primary": "1.1.0",
+    "@bit/lmartim.shepherd.heading-small": "file:../heading-small",
+    "@bit/lmartim.shepherd.paragraph": "1.1.0",
+    "@bit/lmartim.shepherd.shape": "1.1.0",
+    "@bit/lmartim.shepherd.subtitle-small": "1.1.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {}
+  }
+}

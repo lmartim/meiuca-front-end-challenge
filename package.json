@@ -10,7 +10,9 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
-    "vue-loader": "^15.9.6"
+    "vue-loader": "^15.9.6",
+    "@bit/lmartim.shepherd.heading-small": "file:./components/heading-small",
+    "@bit/lmartim.shepherd.card-content": "file:./components/card-content"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -42,5 +44,10 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "bit": {
+    "env": {},
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
+  }
 }

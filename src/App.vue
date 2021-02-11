@@ -18,7 +18,7 @@
 <script>
 import axios from 'axios'
 
-import CardContent from '../shepherd-design-system/src/components/CardContent'
+import CardContent from '@bit/lmartim.shepherd.card-content'
 
 export default {
   name: 'App',
